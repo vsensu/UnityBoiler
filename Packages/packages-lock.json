@@ -1,15 +1,8 @@
 {
   "dependencies": {
-    "com.unity.collab-proxy": {
-      "version": "1.2.16",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.cn"
-    },
     "com.unity.ext.nunit": {
       "version": "1.0.0",
-      "depth": 1,
+      "depth": 2,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.cn"
@@ -23,16 +16,9 @@
       },
       "url": "https://packages.unity.cn"
     },
-    "com.unity.ide.vscode": {
-      "version": "1.2.1",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.cn"
-    },
     "com.unity.test-framework": {
       "version": "1.1.16",
-      "depth": 0,
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.0",
@@ -40,31 +26,6 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.cn"
-    },
-    "com.unity.textmeshpro": {
-      "version": "2.1.1",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.ugui": "1.0.0"
-      },
-      "url": "https://packages.unity.cn"
-    },
-    "com.unity.timeline": {
-      "version": "1.2.16",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.cn"
-    },
-    "com.unity.ugui": {
-      "version": "1.0.0",
-      "depth": 0,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.modules.ui": "1.0.0",
-        "com.unity.modules.imgui": "1.0.0"
-      }
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
